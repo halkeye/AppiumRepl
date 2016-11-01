@@ -4,11 +4,11 @@
   "description": "Simple REPL (Read-eval-print Loop) for controlling mobile apps through Appium",
   "main": "./lib/appium-repl.js",
   "dependencies": {
-    "colors": "^0.6.2",
-    "wd": "^0.3",
-    "telme-promise": "^0.1.0",
-    "prompt": "0.2.13",
-    "underscore":"1.6.0"
+    "colors": "^1.1.2",
+    "wd": "^1.0.0",
+    "telme-promise": "^1.0.0",
+    "prompt": "1.0.0",
+    "underscore":"1.8.3"
   },
   "devDependencies": {},
   "scripts": {
